@@ -2,3 +2,4 @@
 - [轻松学node.js系列](https://www.bilibili.com/video/av21010015?t=66)
 - [Node.JS-黑马程序员](https://www.bilibili.com/video/av27670326/?p=1)
 - [叶建华亲授-从零玩转Node.js](https://www.bilibili.com/video/av24951408/?p=1)
+- [网易web白帽子培训教程](https://www.bilibili.com/video/av9252479?t=66)
